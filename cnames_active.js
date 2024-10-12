@@ -3292,6 +3292,7 @@ var cnames_active = {
   "typewriter": "nicesapien.github.io/typewriter.js",
   "tyshemo": "tangshuang.github.io/tyshemo",
   "tyvn": "milo123459.github.io/tyvn",
+  "tanjam": "shifar282.github.io/tanjam/"
   "u": "hanul.github.io/UJS", // noCF? (don´t add this in a new PR)
   "uaparser": "faisalman.github.io/ua-parser-js",
   "uav": "unearth-inc.github.io/uav",
@@ -3641,7 +3642,6 @@ var cnames_active = {
   "zykj": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
   "zyy": "zyyou.github.io/notes"
-  "tanjam": "shifar282.github.io/tanjam/"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
